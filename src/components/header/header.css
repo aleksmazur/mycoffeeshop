@@ -1,0 +1,21 @@
+@import '../../styles/text.css';
+
+.header {
+    position: absolute;
+    width: 355px;
+    display: flex;
+    align-items: flex-end;
+    top: 30px;
+    left: 150px;
+    z-index: 3;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 325px;
+}

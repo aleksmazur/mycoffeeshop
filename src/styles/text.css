@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.title_40 {
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+.title_24 {
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+.title_14 {
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.title_12 {
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.dark {
+    color: #000000;
+}
+
+.bold {
+    font-weight: bold;
+}
+/* .text{
+    margin: 0;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: $dark-color;
+}
+
+.header_text{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 58px;
+    margin: 0;
+    color: $main-color;
+}
+
+.subheader_text{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 35px;
+    color: $main-color;
+} */

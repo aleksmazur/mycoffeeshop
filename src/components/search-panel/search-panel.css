@@ -1,0 +1,18 @@
+@import '../../styles/text.css';
+
+.search-panel-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 284px;
+}
+
+.search-panel-group .search-input {
+    width: 180px;
+    height: 30px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+}

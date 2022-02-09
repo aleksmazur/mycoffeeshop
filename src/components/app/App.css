@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.App .search-filter-panel {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 60px;
+}

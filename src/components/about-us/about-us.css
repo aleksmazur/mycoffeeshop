@@ -1,0 +1,17 @@
+@import '../../styles/text.css';
+
+.about-us {
+    padding: 80px 0 100px 0;
+    width: 590px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.about-us img {
+    margin-top: 20px;
+}
+
+.about-us p {
+    margin-top: 40px;
+}

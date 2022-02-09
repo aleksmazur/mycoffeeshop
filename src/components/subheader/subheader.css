@@ -1,0 +1,8 @@
+@import '../../styles/text.css';
+
+.subheader {
+    padding: 130px 0 85px 0;
+    text-align: center;
+    min-width: 1440px;
+    background: url('../../resource/second_pg/bg_sec_pg.jpg') center center/cover no-repeat;
+}

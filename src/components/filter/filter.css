@@ -1,0 +1,33 @@
+@import '../../styles/text.css';
+
+.filter-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 326px;
+}
+
+.filter-group .btn-group {
+    display: flex;
+    width: 235px;
+    justify-content: space-between;
+}
+
+.filter-group .btn-group .btn {
+    width: 75px;
+    height: 30px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 0px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.filter-group .btn-group .btn .btn-dark {
+    background: black;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+}
